@@ -11,6 +11,29 @@ body {
     background-color: #f4f4f4;
 }
 
+
+
+
+.bias-bar {
+    height: 10px;
+    display: flex;
+    margin-top: 10px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.pro-western {
+    background-color: blue;
+}
+
+.pro-eastern {
+    background-color: red;
+}
+
+
+
+
+
 /* Header Styles */
 header {
     background: #007bff;
