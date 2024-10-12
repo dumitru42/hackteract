@@ -74,14 +74,22 @@ header nav ul li a {
 }
 
 .source img {
-    max-width: 100%;  /* Make logos adaptable */
+    max-width: 50px;  /* Make logos adaptable */
     height: auto;
-    max-height: 50px; /* Limit height for logos */
+   
     margin-bottom: 10px;
 }
 
 .source p {
     font-size: 0.9em;
+}
+
+imgINDX {
+   max-width: 20%;  /* Make logos adaptable */
+    height: auto;
+   
+    margin-bottom: 10px;
+    
 }
 
 /* Footer Styles */
