@@ -92,6 +92,12 @@ footer {
     position: relative;
 }
 
+.imageINDX {
+        max-width: 420px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     header h1 {
