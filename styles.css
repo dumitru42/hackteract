@@ -117,6 +117,110 @@ footer {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.news-grid {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.news-grid article {
+    width: 30%;
+    background-color: #fff;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.news-grid article img {
+    width: 100%;
+    height: auto;
+}
+
+.news-grid article h3 {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.news-grid article p {
+    font-size: 1em;
+    color: #666;
+}
+
+.news-grid article a {
+    color: #333;
+    text-decoration: none;
+}
+
+.news-grid article a:hover {
+    text-decoration: underline;
+}
+
+/* Comparison Section */
+.news-comparison {
+    padding: 20px;
+    text-align: center;
+}
+
+.news-comparison h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.news-comparison p {
+    font-size: 1.2em;
+}
+
+.news-source {
+    margin-bottom: 30px;
+}
+
+.news-source h3 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.news-source p {
+    font-size: 1em;
+    color: #666;
+}
+
+.news-source a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.news-source a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Responsive Images for Homepage */
 .homepage-image {
     width: 100%; /* Make images adaptable */
