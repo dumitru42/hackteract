@@ -93,9 +93,9 @@ article p {
 }
 
 .imageINDX {
-    max-width: 100%;
+    max-width: 20%;
     height: auto;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 /* Bias Bar Styling */
