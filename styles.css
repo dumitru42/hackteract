@@ -134,4 +134,23 @@ footer {
     bottom: 0;
     width: 100%;
 }
+/* Updated Bias Bar Styles */
+.bias-bar {
+    height: 10px;
+    display: flex;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+}
+
+.pro-western {
+    background-color: blue;
+    height: 100%;
+}
+
+.pro-eastern {
+    background-color: red;
+    height: 100%;
+}
+
+/* Logos in the News
 
